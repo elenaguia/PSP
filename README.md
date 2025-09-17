@@ -10,5 +10,5 @@
 - [Practica1](https://docs.google.com/document/d/1yfihU97FT1dlnFISBLKYCvfbBFT46ndR/edit?usp=sharing&ouid=102091500432153863914&rtpof=true&sd=true)
 
 # Hackathon
-  -[Hackathon Area Project](https://hackathon.areaproject.com/)
-  -[Informacion](https://drive.google.com/file/d/1Us2cF0ndgGVv8dGddE9qY4CUJMUz-BQt/view?usp=sharing)
+  - [Hackathon Area Project](https://hackathon.areaproject.com/)
+  - [Informacion](https://drive.google.com/file/d/1Us2cF0ndgGVv8dGddE9qY4CUJMUz-BQt/view?usp=sharing)
