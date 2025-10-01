@@ -16,7 +16,10 @@
 - Ejecutar ambos procesos:  java Aleatorios.java | java ordenarNumeros.java 
 - javac aleatorios.java (compila el archivo) y java aleatorios (ejecuta el programa), java -jar aleatorios.jar (convierte el archivo java en un archivo ejecutable .jar)
 - [Ejemplos ProcessBuilder](https://drive.google.com/file/d/1Oa8tZj_CRGCTCyetWRSM-F5dlNMvCpww/view?usp=sharing)
+- [Ejemplos ProcessBuilder más sencillos](https://drive.google.com/file/d/1yFFaqKKI62-_p0CvQ557KHPmlXQ8GDKk/view?usp=sharing)
 - [Práctica1.2 - Programación Multiproceso](https://docs.google.com/document/d/1IdVyZ_yShxRns0Ol9HFcu8nSYu23SINX/edit?usp=sharing&ouid=102091500432153863914&rtpof=true&sd=true)
+- [Práctica1.3 - Ejercicios ProcessBuilder y Process](https://docs.google.com/document/d/1umYm7MTqg2fYD2zlduJVC6fmDckT0fjb/edit?usp=sharing&ouid=102091500432153863914&rtpof=true&sd=true)
+- [Explicación gráfica - ProcessBuilder](https://docs.google.com/presentation/d/1NJG83yL_FKQMbyUrtQE6-DZotZPLkH_5/edit?usp=sharing&ouid=102091500432153863914&rtpof=true&sd=true)
   
 # Hackathon
   - [Hackathon Area Project](https://hackathon.areaproject.com/)
